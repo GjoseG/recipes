@@ -11,3 +11,8 @@ a{
     font-weight: 800;
 }
 
+ul, ol{
+    display: table;
+    margin: 0 auto;
+}
+
